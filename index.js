@@ -1,6 +1,6 @@
 'use strict';
 
-module.expors.gulucuk = function () {
+module.exports.gulucuk = function () {
 
     console.log(':P');
 };
